@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Merge ar1[] and ar2[] with O(1) extra space
+// Merge ar1[] and ar2[] with O(1) extra space for marging 
 void merge(int ar1[], int ar2[], int m, int n)
 {
 	// Iterate through all elements of ar2[] starting from
