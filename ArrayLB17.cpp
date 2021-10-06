@@ -6,7 +6,7 @@ using namespace std;
 void merge(int ar1[], int ar2[], int m, int n)
 {
 	// Iterate through all elements of ar2[] starting from
-	// the last element
+	// the last element all have 
 	for (int i=n-1; i>=0; i--)
 	{
 		/* Find the smallest element greater than ar2[i]. Move all
