@@ -1,5 +1,5 @@
 // C++ program for find the largest
-// three elements in an array
+// three elements in an array for array 
 #include <bits/stdc++.h>
 using namespace std;
 
