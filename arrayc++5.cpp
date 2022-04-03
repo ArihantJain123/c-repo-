@@ -1,7 +1,7 @@
 #include<iostream>
 
 
-//new here like
+//new here like here 
 using namespace std;
 
 int SelSort(int[],int);
