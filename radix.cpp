@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-//new here
+//new here.
 int getMax(int arr[], int n)
 {
 	int mx = arr[0];
