@@ -1,4 +1,4 @@
-// C++ program for find the largest ok yep.. 
+// C++ program for find the largest ok yep.. ..
 // three elements in an array for array ok 
 #include <bits/stdc++.h>
 using namespace std;
