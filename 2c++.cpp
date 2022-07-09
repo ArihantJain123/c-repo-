@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stdlib.h>
-main .cpp//.........
+main .cpp//...........
+    
 using namespace std;
 
 
