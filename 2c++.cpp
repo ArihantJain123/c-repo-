@@ -1,5 +1,5 @@
 #include<iostream>
-#include<stdlib.h>
+#include<stdlib.h>...
 main .cpp//.............
     //..
 using namespace std;
