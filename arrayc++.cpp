@@ -1,5 +1,5 @@
 #include<iostream>
-//new one new here...........
+//new one new here..............
 using namespace std;
 
 int Lsearch(int[],int,int);
